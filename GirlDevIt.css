@@ -1,0 +1,36 @@
+/*
+* Maddie Tonn 
+* Due Date 
+* Girl Develop it 
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    /* Background color */
+    background-color: lightpink;  
+}
+
+/* Color of header */
+header { text-align: center; background-color: #ff6666; }
+
+/* Fonts of the text */
+h1 {font-family: cursive;}
+h2 {font-family: cursive;}
+main {font-family: sans-serif; }
+
+/* Floating images */
+#image1 { float: right; }
+#image2 { float: right; }
+
+/* Formating of the links */
+a:hover , a:focus {
+   color: fuchsia;
+   text-decoration: underline;
+   font-size: 150%; }
